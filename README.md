@@ -7,7 +7,7 @@ A lightweight Java library for Bukkit plugin development, designed to simplify c
 ## Features
 
 ### Core Features
-- **Data Storage** – Simple utilities for permanent storage (YAML format only for now).
+- **Data Storage** – Simple utilities for permanent storage (Support SQLITE and MySQL by default).
 - **Inventory GUI** – Highly configurable inventory GUI creations.
 - **Multi-Language Support** – Load language files and manage in-game messages.
 - **Command System** – Simplified command registration with auto-completion.
